@@ -1,8 +1,0 @@
-use std
-use regex
-
-use "testmatch.use"
-
-const main = {
-	testmatch(".*bcd", "Abc")
-}
